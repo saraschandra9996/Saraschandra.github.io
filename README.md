@@ -2,7 +2,7 @@
 
 **Technical Skills:** SQL, Python, R, Tableau, Power BI, Google Analytics, Data Studio
 
-**Education**
+<h1>Education</h1>
 
 M.S., Computer Science | Roosevelt University (January 2023 - December 2024)
 B.Tech., Power Engineering | GMRIT (August 2017 - October 2021)
