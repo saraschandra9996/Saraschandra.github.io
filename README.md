@@ -23,7 +23,7 @@ Data Analyst @ Accenture (October 2021 - January 2023)
 • Developed workflows for internal customers using SQL functions and stored procedures, resulting in a 50% improvement in data retrieval efficiency.<br />
 
 
-<h1>Projects<h1>
+<h1>Projects</h1>h1>
 Comparison of Sales by Region - Sample Superstore
 Created a comprehensive Tableau dashboard to visualize and compare sales performance between two selected regions, aiding
 organizational decision-making.
