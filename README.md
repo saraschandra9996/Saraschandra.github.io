@@ -24,7 +24,7 @@ Data Analyst @ Accenture (October 2021 - January 2023)
 
 
 <h1>Projects</h1>
-**Comparison of Sales by Region - Sample Superstore**<br />
+**Comparison of Sales by Region - Sample Superstore** <br />
 Created a comprehensive Tableau dashboard to visualize and compare sales performance between two selected regions, aiding
 organizational decision-making.
 - Analyzed sales data to identify trends and patterns, achieving an accuracy of 92%
