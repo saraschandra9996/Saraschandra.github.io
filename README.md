@@ -30,7 +30,8 @@ organizational decision-making.
 - Analyzed sales data to identify trends and patterns, achieving an accuracy of 92%
 - Developed interactive visualizations to allow for dynamic comparison of sales metrics across different regions.
 - Automated data integration and visualization processes, ensuring real-time updates and enhanced data accuracy.
-https://github.com/user-attachments/assets/7deb1c70-0335-4d9f-b07a-ce603a297e49
+![Super Store](https://github.com/user-attachments/assets/a6c30cce-f15a-4556-ad13-d6128ad5ec5b)
+
 
 
 **ScienceQtech - Employee Performance Mapping** <br />
