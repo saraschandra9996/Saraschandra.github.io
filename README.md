@@ -1,4 +1,4 @@
-**Data Analyst | Business Analyst**
+**Data Analyst**
 
 **Technical Skills:** SQL, Python, R, Tableau, Power BI, Google Analytics, Data Studio
 
@@ -45,8 +45,8 @@ and extract specific data based on various criteria using SQL.
 
 <h1>Certifications </h1>
 **Microsoft PowerBi Data Analyst Associate**
-<img width="912" alt="Microsoft Certification" src="https://github.com/user-attachments/assets/664f8613-0a17-4764-be0a-06d08493172a" /> <br />
+<img width="912" alt="Microsoft Certification" src="https://github.com/user-attachments/assets/664f8613-0a17-4764-be0a-06d08493172a" /> <br /><br />
 
 **Google Data Analytics**
-<img width="822" alt="Google Data Analytics certificate" src="https://github.com/user-attachments/assets/c18985d8-df84-4d2e-94e1-c3abfa26cf39" />
+<img width="822" alt="Google Data Analytics certificate" src="https://github.com/user-attachments/assets/c18985d8-df84-4d2e-94e1-c3abfa26cf39" /><br />
 
