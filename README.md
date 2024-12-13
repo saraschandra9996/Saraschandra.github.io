@@ -1,24 +1,29 @@
-Data Analyst
+**Data Analyst**
 
-Technical Skills: SQL, Python, R, Tableau, Power BI, Google Analytics, Data Studio
+**Technical Skills:** SQL, Python, R, Tableau, Power BI, Google Analytics, Data Studio
 
-Education
+**Education**
 
 M.S., Computer Science | Roosevelt University (January 2023 - December 2024)
 B.Tech., Power Engineering | GMRIT (August 2017 - October 2021)
 
+**Work Experience **
 Data Analyst @ Accenture (October 2021 - January 2023)
 
 • Managed PowerBI dashboards for point of sales data to assist in inventory planning within the Consumer Goods Division, resulting in saving approximately $0.7 million.
+
 • Collaborated with stakeholders and cross-functional teams to develop, automate, and enhance over 100 report modules using SSRS and PowerBI, resulting in a 45% reduction in manual workload.
+
 • Engineered multidimensional OLAP cubes utilizing SSAS to record KPIs, hierarchies, and aggregations for the Home Appliances Division.
+
 • Employed Python to construct multiple regression and correlation models, revealing the causal relationship between vehicle conditions and warranty issues, leading to a 13% reduction in aftermarket costs.
+
 • Created Tableau dashboards for monitoring KPIs and conducting spatial analysis for 50 sales teams across the US, identifying region-specific customer purchasing patterns and resulting in a 30% increase in sales in underperforming areas.
+
 • Developed workflows for internal customers using SQL functions and stored procedures, resulting in a 50% improvement in data retrieval efficiency.
 
 
-Projects
-
+**Projects**
 Comparison of Sales by Region - Sample Superstore
 Created a comprehensive Tableau dashboard to visualize and compare sales performance between two selected regions, aiding
 organizational decision-making.
