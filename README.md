@@ -34,7 +34,7 @@ organizational decision-making.
 
 
 
-<a href="https://github.com/saraschandra9996/Employeee_Performance_Mapping">**ScienceQtech - Employee Performance Mapping** </a><br />
+<a href="https://github.com/saraschandra9996/Employeee_Performance_Mapping">**ScienceQtech - Employee Performance Mapping** </a> <br />
 Generated detailed reports on employee information, performance, and project assignments to analyze the employee database
 and extract specific data based on various criteria using SQL.
 - Analyzed employee performance metrics to identify key performance indicators and trends.
