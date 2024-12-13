@@ -32,10 +32,11 @@ organizational decision-making.
 - Automated data integration and visualization processes, ensuring real-time updates and enhanced data accuracy.
 ![Super Store](https://github.com/user-attachments/assets/7deb1c70-0335-4d9f-b07a-ce603a297e49)
 
-ScienceQtech - Employee Performance Mapping
+**ScienceQtech - Employee Performance Mapping** <br />
 Generated detailed reports on employee information, performance, and project assignments to analyze the employee database
 and extract specific data based on various criteria using SQL.
 - Analyzed employee performance metrics to identify key performance indicators and trends.
 - Created complex SQL queries to extract, manipulate, and visualize data for comprehensive performance evaluation.
 - Automated reporting processes to improve efficiency and accuracy of performance tracking.
 - Collaborated with the HR and management teams to provide actionable insights for employee development and project
+  ![Employee 1](https://github.com/user-attachments/assets/659e1da9-4323-4844-a5e7-1b08bcf29838)
