@@ -42,3 +42,11 @@ and extract specific data based on various criteria using SQL.
 - Automated reporting processes to improve efficiency and accuracy of performance tracking.
 - Collaborated with the HR and management teams to provide actionable insights for employee development and project
   ![Employee 1](https://github.com/user-attachments/assets/659e1da9-4323-4844-a5e7-1b08bcf29838)
+
+<h1>Certifications </h1>
+**Microsoft PowerBi Data Analyst Associate**
+<img width="912" alt="Microsoft Certification" src="https://github.com/user-attachments/assets/664f8613-0a17-4764-be0a-06d08493172a" /> <br />
+
+**Google Data Analytics**
+<img width="822" alt="Google Data Analytics certificate" src="https://github.com/user-attachments/assets/c18985d8-df84-4d2e-94e1-c3abfa26cf39" />
+
