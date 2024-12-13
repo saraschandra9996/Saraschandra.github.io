@@ -24,12 +24,13 @@ Data Analyst @ Accenture (October 2021 - January 2023)
 
 
 <h1>Projects</h1>
-<a href="https://github.com/user-attachments/assets/7deb1c70-0335-4d9f-b07a-ce603a297e49](https://github.com/saraschandra9996/Comparison-of-Sales-by-Region">**Comparison of Sales by Region - Sample Superstore** </a><br />
+<a href="https://github.com/saraschandra9996/Comparison-of-Sales-by-Region">**Comparison of Sales by Region - Sample Superstore** </a><br />
 Created a comprehensive Tableau dashboard to visualize and compare sales performance between two selected regions, aiding
 organizational decision-making.
 - Analyzed sales data to identify trends and patterns, achieving an accuracy of 92%
 - Developed interactive visualizations to allow for dynamic comparison of sales metrics across different regions.
 - Automated data integration and visualization processes, ensuring real-time updates and enhanced data accuracy.
+https://github.com/user-attachments/assets/7deb1c70-0335-4d9f-b07a-ce603a297e49
 
 
 **ScienceQtech - Employee Performance Mapping** <br />
