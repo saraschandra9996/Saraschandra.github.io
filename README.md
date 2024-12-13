@@ -39,4 +39,3 @@ and extract specific data based on various criteria using SQL.
 - Created complex SQL queries to extract, manipulate, and visualize data for comprehensive performance evaluation.
 - Automated reporting processes to improve efficiency and accuracy of performance tracking.
 - Collaborated with the HR and management teams to provide actionable insights for employee development and project
-
