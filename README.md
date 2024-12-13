@@ -43,6 +43,15 @@ and extract specific data based on various criteria using SQL.
 - Collaborated with the HR and management teams to provide actionable insights for employee development and project
   ![Employee 1](https://github.com/user-attachments/assets/659e1da9-4323-4844-a5e7-1b08bcf29838)
 
+ <a href="https://github.com/saraschandra9996/Cyclistic-Bike-share-Analysis">** Cyclists Bike Share Analysis (Google Data Analytics Capstone Project)** </a> <br />
+Conducted end-to-end analysis of bike-sharing data to identify usage patterns and improve service offerings. 
+- Utilized SQL for data extraction,
+- R for cleaning and visualization,
+- Tableau for dashboard creation.
+- Presented data-driven recommendations to enhance user experience and increase ridership.
+![Cyclistic Bike Share](https://github.com/user-attachments/assets/45c9de03-798e-4c71-9fb6-c00c9f62546c)
+  
+
 <h1>Certifications </h1>
 **Microsoft PowerBi Data Analyst Associate**
 <img width="912" alt="Microsoft Certification" src="https://github.com/user-attachments/assets/664f8613-0a17-4764-be0a-06d08493172a" /> <br /><br />
