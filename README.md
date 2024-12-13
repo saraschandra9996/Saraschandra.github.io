@@ -1,4 +1,4 @@
-**Data Analyst** **Business Analyst**
+**Data Analyst | Business Analyst**
 
 **Technical Skills:** SQL, Python, R, Tableau, Power BI, Google Analytics, Data Studio
 
