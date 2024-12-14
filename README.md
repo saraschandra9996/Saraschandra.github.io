@@ -8,8 +8,8 @@ M.S., Computer Science | Roosevelt University (January 2023 - December 2024)
 B.Tech., Power Engineering | GMRIT (August 2017 - October 2021)
 
 <h1>Work Experience </h1>
-Data Analyst @ Accenture (October 2021 - January 2023)
-
+**Data Analyst @ Accenture (October 2021 - January 2023)
+**
 • Managed PowerBI dashboards for point of sales data to assist in inventory planning within the Consumer Goods Division, resulting in saving approximately $0.7 million.<br />
 
 • Collaborated with stakeholders and cross-functional teams to develop, automate, and enhance over 100 report modules using SSRS and PowerBI, resulting in a 45% reduction in manual workload.<br />
@@ -43,7 +43,7 @@ and extract specific data based on various criteria using SQL.
 - Collaborated with the HR and management teams to provide actionable insights for employee development and project
   ![Employee 1](https://github.com/user-attachments/assets/659e1da9-4323-4844-a5e7-1b08bcf29838)
 
- <a href="https://github.com/saraschandra9996/Cyclistic-Bike-share-Analysis">** Cyclists Bike Share Analysis (Google Data Analytics Capstone Project)** </a> <br />
+ <a href="https://github.com/saraschandra9996/Cyclistic-Bike-share-Analysis">**Cyclists Bike Share Analysis (Google Data Analytics Capstone Project)** </a> <br />
 Conducted end-to-end analysis of bike-sharing data to identify usage patterns and improve service offerings. 
 - Utilized SQL for data extraction,
 - R for cleaning and visualization,
@@ -58,4 +58,12 @@ Conducted end-to-end analysis of bike-sharing data to identify usage patterns an
 
 **Google Data Analytics**
 <img width="822" alt="Google Data Analytics certificate" src="https://github.com/user-attachments/assets/c18985d8-df84-4d2e-94e1-c3abfa26cf39" /><br />
+
+<h1>Research Paper </h1>
+<a href="https://github.com/saraschandra9996/Research-Paper">**Experimental investigation of free connective heat transfer
+augmentation using transformer oil-Al2O3 nanofluid**</a> <br />
+-Published findings utilizing advanced statistical methods to analyze experimental data.
+-My contribution was data analysis, plotting, and statistical modeling. I used  Libraries like NumPy, Pandas, and Matplotlib that are critical for analyzing experimental data and visualizing heat transfer behavior.
+![Research paper](https://github.com/user-attachments/assets/1041b9b2-c9be-478c-93d7-f55250323ca9)
+
 
