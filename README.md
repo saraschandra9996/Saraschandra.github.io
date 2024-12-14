@@ -8,8 +8,7 @@ M.S., Computer Science | Roosevelt University (January 2023 - December 2024)
 B.Tech., Power Engineering | GMRIT (August 2017 - October 2021)
 
 <h1>Work Experience </h1>
-**Data Analyst @ Accenture (October 2021 - January 2023)
-**
+**Data Analyst @ Accenture (October 2021 - January 2023)**<br />
 • Managed PowerBI dashboards for point of sales data to assist in inventory planning within the Consumer Goods Division, resulting in saving approximately $0.7 million.<br />
 
 • Collaborated with stakeholders and cross-functional teams to develop, automate, and enhance over 100 report modules using SSRS and PowerBI, resulting in a 45% reduction in manual workload.<br />
