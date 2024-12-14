@@ -62,8 +62,9 @@ Conducted end-to-end analysis of bike-sharing data to identify usage patterns an
 <h1>Research Paper </h1>
 <a href="https://github.com/saraschandra9996/Research-Paper">**Experimental investigation of free connective heat transfer
 augmentation using transformer oil-Al2O3 nanofluid**</a> <br />
--Published findings utilizing advanced statistical methods to analyze experimental data.
+-Published findings utilizing advanced statistical methods to analyze experimental data.<br />
 -My contribution was data analysis, plotting, and statistical modeling. I used  Libraries like NumPy, Pandas, and Matplotlib that are critical for analyzing experimental data and visualizing heat transfer behavior.
-![Research paper](https://github.com/user-attachments/assets/1041b9b2-c9be-478c-93d7-f55250323ca9)
+<img width="387" alt="Research Paper 1" src="https://github.com/user-attachments/assets/c5084561-9970-402c-97f8-5de9dc3cf3ab" />
+
 
 
