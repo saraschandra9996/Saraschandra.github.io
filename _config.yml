@@ -1,5 +1,7 @@
-title: Saras Chandra Ayyalasomayajula
-logo: Saras .jpg
-#description: Data Analyst| Business Analyst
-show_downloads: true
-theme: beckham-free-html-portfolio-website-template-by-colorlib.html
+title: "My Portfolio"
+description: "Personal portfolio using the Beckham theme"
+baseurl: "" # Leave blank if deploying to root
+url: "https://saraschandra9996.github.io"
+
+# Disable Jekyll theme
+theme: null
