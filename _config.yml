@@ -1,7 +1,5 @@
-title: "My Portfolio"
-description: "Personal portfolio using the Beckham theme"
-baseurl: "" # Leave blank if deploying to root
-url: "https://your-username.github.io"
-
-# Disable Jekyll theme
-theme: null
+title: Saras Chandra Ayyalasomayajula
+logo: Saras .jpeg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
